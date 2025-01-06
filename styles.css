@@ -78,6 +78,7 @@ canvas {
     margin-top: 20px;
     margin-bottom: 20px;
     padding: 20px;
+    box-shadow: 1px 1px 10px 0px;
 }
 .dosColumnas{
     display: flex;
